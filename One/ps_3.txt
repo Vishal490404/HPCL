@@ -1,0 +1,2 @@
+Theoretical flops can be calculated using the formula number_of_cores X clock_speed (Hz) X FLOPs per cycle
+
