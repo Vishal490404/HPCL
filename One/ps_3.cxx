@@ -3,8 +3,8 @@
 using namespace std;
 
 int main(){
-    int num_operations = 1000000000;
-    double a = 1.1, b = 2.2, c;
+    int num_operations = 100000000;
+    double a = 1.1, b = 2.2, c = 0.0; 
     double start_time, end_time;
 
     start_time = omp_get_wtime();
